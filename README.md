@@ -25,7 +25,7 @@ Run the SQL file to convert into a raw input CSV for further processing
 Save your selected model as a .h5 to run the UI application
 
 ### Run basic UI application
-> Run python user_interface.py
+> Run python user_interface.py 
 
 ### Reference 
 [1] Ben Gelman, Bryan Hoyle, Jessica Moore, Joshua Saxe, and David Slater. 2018. A language-agnostic model for semantic source code labeling. In Proceedings of the 1st International Workshop on Machine Learning and Software Engineering in Symbiosis (MASES 2018). Association for Computing Machinery, New York, NY, USA, 36–44
