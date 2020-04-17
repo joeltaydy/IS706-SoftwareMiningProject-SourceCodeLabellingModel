@@ -1,4 +1,6 @@
-# IS706-SoftwareMiningProject-SourceCodeLabellingTool
+# IS706-SoftwareMiningProject
+## Label prediction for arbitrary source code using deep network
+
 Source code for project for Software Mining IS706 by Singapore Management University MITB/SIS/PHd Students
 Andrico CAHYADI andricoc.2018@mitb.smu.edu.sg, NGUYEN Duy Tai dtnguyen.2019@phdcs.smu.edu.sg, NGUYEN Hua Gia Phuc hgpnguyen.2019@phdcs.smu.edu.sg , Joel Tay Da Yuan joel.tay.2016@sis.smu.edu.sg
 
