@@ -19,6 +19,9 @@ Download the latest meta.stackoverflow.com.7z
 
 Run the SQL file to convert into a raw input CSV for further processing
 
+Otherwise, Raw/ Processed / Final Datasets can be found [here](https://drive.google.com/drive/folders/1h3QIiPm0d8Yo7fSmupoxE-cKQ3KfZ5uS?usp=sharing)
+
+
 ### Model
 1. Basic CNN Model
 2. Deep CNN Model
@@ -28,6 +31,8 @@ Save your selected model as a .h5 to run the UI application
 
 ### Run basic UI application
 > Run python user_interface.py 
+
+Dependencies can be found in requirements.txt file
 
 ### Reference 
 [1] Ben Gelman, Bryan Hoyle, Jessica Moore, Joshua Saxe, and David Slater. 2018. A language-agnostic model for semantic source code labeling. In Proceedings of the 1st International Workshop on Machine Learning and Software Engineering in Symbiosis (MASES 2018). Association for Computing Machinery, New York, NY, USA, 36–44
