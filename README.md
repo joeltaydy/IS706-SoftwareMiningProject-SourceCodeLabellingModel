@@ -19,7 +19,7 @@ Download the latest meta.stackoverflow.com.7z
 
 Run the SQL file to convert into a raw input CSV for further processing
 
-Otherwise, Raw/ Processed / Final Datasets can be found [here](https://drive.google.com/drive/folders/1h3QIiPm0d8Yo7fSmupoxE-cKQ3KfZ5uS?usp=sharing)
+Otherwise, Raw/ Processed / Final Datasets can be found [here](https://drive.google.com/drive/folders/1h3QIiPm0d8Yo7fSmupoxE-cKQ3KfZ5uS?usp=sharing) Accessible with SMU Email
 
 
 ### Model
